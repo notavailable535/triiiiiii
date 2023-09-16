@@ -1,0 +1,103 @@
+{
+  "productName": "tribot-launcher",
+  "major": 14,
+  "minor": 0,
+  "patch": 2,
+  "files": [
+    {
+      "fileName": "lib/kotlin-stdlib-common-1.4.10.jar",
+      "hash": "3063BE8B21930539E87A1B70819C46FE",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536800328163348/kotlin-stdlib-common-1.4.10.jar"
+    },
+    {
+      "fileName": "lib/gson-2.8.6.jar",
+      "hash": "310F5841387183ACA7900FEAD98D4858",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536830103519313/gson-2.8.6.jar"
+    },
+    {
+      "fileName": "lib/launcher-14.0.2.jar",
+      "hash": "42F9D16A0C337E10F61E1D10BCE5FA40",
+      "url": "https://recoderz.org/tribot/launcher-14.0.2.rec.jar"
+    },
+    {
+      "fileName": "lib/commons-compress-1.9.jar",
+      "hash": "6C9CE8534B9E4C17E5DEA7A97425245C",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536832901132318/commons-compress-1.9.jar"
+    },
+    {
+      "fileName": "lib/guava-30.1-jre.jar",
+      "hash": "2F8966F27F06101A08083BFA9F9277E7",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536830556516382/guava-30.1-jre.jar"
+    },
+    {
+      "fileName": "lib/okhttp-4.9.0.jar",
+      "hash": "D67E576D60D23D71ED877257641BE339",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536801389322260/okhttp-4.9.0.jar"
+    },
+    {
+      "fileName": "lib/picocli-4.6.1.jar",
+      "hash": "F09461A45F8D0591E6625BC4ECBA5CED",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536802123333684/picocli-4.6.1.jar"
+    },
+    {
+      "fileName": "lib/checker-qual-3.5.0.jar",
+      "hash": "4464DEF1ED5C10F248EBFE1BCCBEDF1A",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536832422969364/checker-qual-3.5.0.jar"
+    },
+    {
+      "fileName": "lib/commons-lang3-3.0.jar",
+      "hash": "4379D24D0887FEB9098FE5BB24FB042E",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536833303773315/commons-lang3-3.0.jar"
+    },
+    {
+      "fileName": "lib/failureaccess-1.0.1.jar",
+      "hash": "091883993EF5BFA91DA01DCC8FC52236",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536829579243580/failureaccess-1.0.1.jar"
+    },
+    {
+      "fileName": "lib/annotations-13.0.jar",
+      "hash": "F4FB462172517B46B6CD90003508515A",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536831907082240/annotations-13.0.jar"
+    },
+    {
+      "fileName": "lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
+      "hash": "D094C22570D65E132C19CEA5D352E381",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536801099923517/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+    },
+    {
+      "fileName": "lib/jarchivelib-0.7.1.jar",
+      "hash": "1E6386E488D55A623379B97BA42307BC",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536831386992700/jarchivelib-0.7.1.jar"
+    },
+    {
+      "fileName": "lib/jsr305-3.0.2.jar",
+      "hash": "DD83ACCB899363C32B07D7A1B2E4CE40",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536802869919855/jsr305-3.0.2.jar"
+    },
+    {
+      "fileName": "lib/j2objc-annotations-1.3.jar",
+      "hash": "5FA4EC4EC0C5AA70AF8A7D4922DF1931",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536830975934504/j2objc-annotations-1.3.jar"
+    },
+    {
+      "fileName": "lib/okio-jvm-2.8.0.jar",
+      "hash": "48756CEE44C4F8403EBD07A8152EA5BA",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536801770999808/okio-jvm-2.8.0.jar"
+    },
+    {
+      "fileName": "lib/error_prone_annotations-2.3.4.jar",
+      "hash": "67BEEEE58DF00366100061C7DA82F4C2",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536829042376766/error_prone_annotations-2.3.4.jar"
+    },
+    {
+      "fileName": "lib/jfoenix-9.0.10.jar",
+      "hash": "722B09FD2C498670E52EDE756E83024E",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536802496614430/jfoenix-9.0.10.jar"
+    },
+    {
+      "fileName": "lib/kotlin-stdlib-1.4.10.jar",
+      "hash": "2598F9C67CCFEC4CBF6CDC699CAC5841",
+      "url": "https://cdn.discordapp.com/attachments/1128536684410187896/1128536803239010374/kotlin-stdlib-1.4.10.jar"
+    }
+  ]
+}
