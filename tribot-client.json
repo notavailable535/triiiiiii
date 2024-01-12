@@ -1,0 +1,313 @@
+{
+  "productName": "tribot-client",
+  "major": 12,
+  "minor": 3,
+  "patch": 30,
+  "files": [
+    {
+      "fileName": "lib/flatlaf-2.4.jar",
+      "hash": "06481E9FA65E13E208C37547E0FD1DC2",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508741466214430/flatlaf-2.4.jar"
+    },
+    {
+      "fileName": "lib/jna-5.8.0.jar",
+      "hash": "3E1988240662C4F068E8FF5DF505F6A0",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508703285465128/jna-5.8.0.jar"
+    },
+    {
+      "fileName": "lib/commons-collections4-4.2.jar",
+      "hash": "B290524BE8A0DBB6521DF95F4CE80C8D",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508807354531870/commons-collections4-4.2.jar"
+    },
+    {
+      "fileName": "lib/checker-qual-3.12.0.jar",
+      "hash": "AB1AE0E2F2F63601597A5A96FCA8A54F",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508810273767474/checker-qual-3.12.0.jar"
+    },
+    {
+      "fileName": "lib/kotlin-stdlib-jdk7-1.8.20.jar",
+      "hash": "DA3588AF3BB0C9122DBAE3D733DDDF53",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508640266027008/kotlin-stdlib-jdk7-1.8.20.jar"
+    },
+    {
+      "fileName": "lib/discord-webhooks-0.8.0.jar",
+      "hash": "DD51CA9B9238EC87091DE69AF373D57E",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508740371484713/discord-webhooks-0.8.0.jar"
+    },
+    {
+      "fileName": "lib/jfreechart-1.5.0.jar",
+      "hash": "7F2C7D92183516747CBE5269FA8F2201",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508702253649991/jfreechart-1.5.0.jar"
+    },
+    {
+      "fileName": "lib/oshi-core-5.7.1.jar",
+      "hash": "49F35AC0C10B355C91BAFAA3276BB9EA",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508520740958239/oshi-core-5.7.1.jar"
+    },
+    {
+      "fileName": "lib/slf4j-api-2.0.1.jar",
+      "hash": "F83E57C047D1E3E226B77ABC9141D233",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508521651122186/slf4j-api-2.0.1.jar"
+    },
+    {
+      "fileName": "lib/asm-analysis-9.0.jar",
+      "hash": "DAED5F6BC67AC8F01BEBECA0BB72A369",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508836391694416/asm-analysis-9.0.jar"
+    },
+    {
+      "fileName": "lib/kotlin-stdlib-1.8.20.jar",
+      "hash": "2B3D65E24952649BF7534017C64B435E",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508643252392006/kotlin-stdlib-1.8.20.jar"
+    },
+    {
+      "fileName": "lib/jfa-1.1.9.jar",
+      "hash": "25104B5AA6684BFDAE34A44300EA21AE",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508705181290626/jfa-1.1.9.jar"
+    },
+    {
+      "fileName": "lib/lg-11-agent-12.3.23.jar",
+      "hash": "2ABDD363AED22C5645355B3E7A410031",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508571030671420/lg-11-agent-12.3.23.jar"
+    },
+    {
+      "fileName": "lib/lg-util-12.3.23.jar",
+      "hash": "E4B9BA2DFAC4A33469E30C10978D8D6A",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508571848560650/lg-util-12.3.23.jar"
+    },
+    {
+      "fileName": "lib/fx-gson-4.0.1.jar",
+      "hash": "C453446B3D83CBA1403ADB476C27160B",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508736932171776/fx-gson-4.0.1.jar"
+    },
+    {
+      "fileName": "lib/jSystemThemeDetector-3.6.jar",
+      "hash": "46178C9996D251DFDEF5362FA502658C",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508641956352030/jSystemThemeDetector-3.6.jar"
+    },
+    {
+      "fileName": "lib/tribot-script-sdk-1.0.44.jar",
+      "hash": "0A5CCD7DEFCE180C9436A29CD4E6289D",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508522439655574/tribot-script-sdk-1.0.44.jar"
+    },
+    {
+      "fileName": "lib/jfoenix-9.0.10.jar",
+      "hash": "722B09FD2C498670E52EDE756E83024E",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508701851013160/jfoenix-9.0.10.jar"
+    },
+    {
+      "fileName": "lib/versioncompare-1.4.1.jar",
+      "hash": "42F6D246BA6D9593EFFCF90BED3C5100",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508522838106162/versioncompare-1.4.1.jar"
+    },
+    {
+      "fileName": "lib/logback-classic-1.4.4.jar",
+      "hash": "5829B52FB21F1BA4972991535991C372",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508572238626816/logback-classic-1.4.4.jar"
+    },
+    {
+      "fileName": "lib/json-20210307.jar",
+      "hash": "F73834FD29B71806597A4C6ACE15170A",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508641159434390/json-20210307.jar"
+    },
+    {
+      "fileName": "lib/okhttp-4.9.2.jar",
+      "hash": "484052430CD3CA3BED3E41FE1D9081F9",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508523345625239/okhttp-4.9.2.jar"
+    },
+    {
+      "fileName": "lib/kindedj-1.1.0.jar",
+      "hash": "CC8375BC7A2ACBC4BDFD9C848C27FA84",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508642853925036/kindedj-1.1.0.jar"
+    },
+    {
+      "fileName": "lib/commons-logging-1.2.jar",
+      "hash": "040B4B4D8EAC886F6B4A2A3BD2F31B00",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508809241960488/commons-logging-1.2.jar"
+    },
+    {
+      "fileName": "lib/jackson-databind-2.13.4.2.jar",
+      "hash": "F26EAB82FA1DA09F8E8BC7E52FC82088",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508704464048209/jackson-databind-2.13.4.2.jar"
+    },
+    {
+      "fileName": "lib/lg-11-agent-support-12.3.23.jar",
+      "hash": "651A43B7EE840FB8E8341EE4E5FD33E5",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508571429113886/lg-11-agent-support-12.3.23.jar"
+    },
+    {
+      "fileName": "lib/asm-commons-9.0.jar",
+      "hash": "E84F4F465FE607932AF0D9CA4B31BCE5",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508836760797184/asm-commons-9.0.jar"
+    },
+    {
+      "fileName": "lib/arrow-core-0.13.2.jar",
+      "hash": "E687D963FC80A4202726C86C6C26FC6D",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508835603161109/arrow-core-0.13.2.jar"
+    },
+    {
+      "fileName": "lib/arrow-continuations-0.13.2.jar",
+      "hash": "9EE6DD1A85F31E399AE35379C1E6DC76",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508839138959531/arrow-continuations-0.13.2.jar"
+    },
+    {
+      "fileName": "lib/kotlinx-coroutines-core-jvm-1.6.4.jar",
+      "hash": "9BA1873872FE1406D39BC40683050C45",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508573144600606/kotlinx-coroutines-core-jvm-1.6.4.jar"
+    },
+    {
+      "fileName": "lib/gson-2.8.6.jar",
+      "hash": "310F5841387183ACA7900FEAD98D4858",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508737498398800/gson-2.8.6.jar"
+    },
+    {
+      "fileName": "lib/arrow-annotations-0.13.2.jar",
+      "hash": "8CA6CA97E530E3570F9D69D425389D73",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508838790840320/arrow-annotations-0.13.2.jar"
+    },
+    {
+      "fileName": "lib/tribot-dax-walker-1.1.19.jar",
+      "hash": "832B45B54156ED10655C3C160A96F0DB",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508522099908618/tribot-dax-walker-1.1.19.jar"
+    },
+    {
+      "fileName": "lib/j4rs-0.15.0.jar",
+      "hash": "28F344F99905A8C54D581339DBA8823D",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508738819608676/j4rs-0.15.0.jar"
+    },
+    {
+      "fileName": "lib/jna-platform-5.8.0.jar",
+      "hash": "9AEEC8BAA295EA5B93EFB461228D77DA",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508703734239282/jna-platform-5.8.0.jar"
+    },
+    {
+      "fileName": "lib/JLargeArrays-1.5.jar",
+      "hash": "9E9AF6183A8AD44B01B4B76A34A56821",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508702698242199/JLargeArrays-1.5.jar"
+    },
+    {
+      "fileName": "lib/commons-lang3-3.8.jar",
+      "hash": "0E9023B7D40F09A8F7BDB32889EF4449",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508808742846514/commons-lang3-3.8.jar"
+    },
+    {
+      "fileName": "lib/jackson-core-2.13.4.jar",
+      "hash": "E8F064827DDB8DEB06E45D20988BCAA5",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508704099139654/jackson-core-2.13.4.jar"
+    },
+    {
+      "fileName": "lib/commons-codec-1.11.jar",
+      "hash": "567159B1AE257A43E1391A8F59D24CFE",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508806914113556/commons-codec-1.11.jar"
+    },
+    {
+      "fileName": "lib/commons-io-2.6.jar",
+      "hash": "467C2A1F64319C99B5FAF03FC78572AF",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508808285659166/commons-io-2.6.jar"
+    },
+    {
+      "fileName": "lib/JTransforms-3.1.jar",
+      "hash": "2D8AE6EBFDEFA987A7EDFA718E8F7815",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508642333818950/JTransforms-3.1.jar"
+    },
+    {
+      "fileName": "lib/commons-math3-3.6.1.jar",
+      "hash": "5B730D97E4E6368069DE1983937C508E",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508739809460355/commons-math3-3.6.1.jar"
+    },
+    {
+      "fileName": "lib/asm-tree-9.0.jar",
+      "hash": "3798070ED795CF4AA7EFD7F63FEEC2A2",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508837142474883/asm-tree-9.0.jar"
+    },
+    {
+      "fileName": "lib/asm-9.0.jar",
+      "hash": "E87284E4421437854BA938179CF803E7",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508835947102289/asm-9.0.jar"
+    },
+    {
+      "fileName": "lib/legacy-client-12.3.30.jar",
+      "hash": "DA1DE5E1869927ED037F0B1B3ADD420D",
+      "url": "https://cdn.discordapp.com/attachments/1195474067688530041/1195476049908219965/legacy-client-12.3.30.jar"
+    },
+    {
+      "fileName": "lib/kotlin-stdlib-jdk8-1.8.20.jar",
+      "hash": "2097CB28602F5A6320BCC1BD74914DB9",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508640756772987/kotlin-stdlib-jdk8-1.8.20.jar"
+    },
+    {
+      "fileName": "lib/annotations-22.0.0.jar",
+      "hash": "2D957179CD65A8F074573CE2D5937A42",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508838379790417/annotations-22.0.0.jar"
+    },
+    {
+      "fileName": "lib/animal-sniffer-annotations-1.14.jar",
+      "hash": "9D42E46845C874F1710A9F6A741F6C14",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508837931003904/animal-sniffer-annotations-1.14.jar"
+    },
+    {
+      "fileName": "lib/jsr305-3.0.2.jar",
+      "hash": "DD83ACCB899363C32B07D7A1B2E4CE40",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508641566261358/jsr305-3.0.2.jar"
+    },
+    {
+      "fileName": "lib/okio-jvm-2.8.0.jar",
+      "hash": "48756CEE44C4F8403EBD07A8152EA5BA",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508520304754778/okio-jvm-2.8.0.jar"
+    },
+    {
+      "fileName": "lib/logback-core-1.4.4.jar",
+      "hash": "71EF0778797FA3991F0A4ADCD81AB4A6",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508572699988030/logback-core-1.4.4.jar"
+    },
+    {
+      "fileName": "lib/j2objc-annotations-1.1.jar",
+      "hash": "49AE3204BB0BB9B2AC77062641F4A6D7",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508738362425374/j2objc-annotations-1.1.jar"
+    },
+    {
+      "fileName": "lib/caffeine-3.0.2.jar",
+      "hash": "E449B8D43BBB9BF328CE3AA382827E03",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508809699131412/caffeine-3.0.2.jar"
+    },
+    {
+      "fileName": "lib/jackson-annotations-2.13.4.jar",
+      "hash": "7E982DAFCF25C24B365B5088EAF8A0A6",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508739415183370/jackson-annotations-2.13.4.jar"
+    },
+    {
+      "fileName": "lib/jdistlib-0.4.5.jar",
+      "hash": "23960937DD5C7C8F0639D24A236801B4",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508704807977110/jdistlib-0.4.5.jar"
+    },
+    {
+      "fileName": "lib/asm-util-9.0.jar",
+      "hash": "DDBCAA2262311E04A6B0560787B47DA4",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508837549326356/asm-util-9.0.jar"
+    },
+    {
+      "fileName": "lib/error_prone_annotations-2.6.0.jar",
+      "hash": "660377D85827CEAE1EEFE2B5DEEE61E3",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508741042585740/error_prone_annotations-2.6.0.jar"
+    },
+    {
+      "fileName": "lib/commons-configuration2-2.3.jar",
+      "hash": "6ABD3F30EE9CE059D32D32CB0E172508",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508807891386438/commons-configuration2-2.3.jar"
+    },
+    {
+      "fileName": "lib/kotlin-stdlib-common-1.8.20.jar",
+      "hash": "AF45A8873880F027F47D573E1483A6DC",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508639800479795/kotlin-stdlib-common-1.8.20.jar"
+    },
+    {
+      "fileName": "lib/guava-26.0-jre.jar",
+      "hash": "DB2D6EAE3EC08B0FD752EF0C5672AAB7",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508737884278894/guava-26.0-jre.jar"
+    },
+    {
+      "fileName": "lib/picocli-4.5.2.jar",
+      "hash": "DD83D025BA8AA4A1E0861A3F9BA36975",
+      "url": "https://cdn.discordapp.com/attachments/1128508379032207424/1128508521181356092/picocli-4.5.2.jar"
+    }
+  ]
+}
